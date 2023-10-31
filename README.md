@@ -3,12 +3,11 @@
 Task 1: Call Centre Trends Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative!
 
 Possible KPIs include (to get you started, but not limited to):
-
-    Overall customer satisfaction
-    Overall calls answered/abandoned
-    Calls by time
-    Average speed of answer
-    Agentâ€™s performance quadrant -> average handle time (talk duration) vs calls answered
+    1. Overall customer satisfaction
+    2. Overall calls answered/abandoned
+    3. Calls by time
+    4. Average speed of answer
+    5. Agentâ€™s performance quadrant -> average handle time (talk duration) vs calls answered
     
 ![Call Center report](https://github.com/OmnyaRamadan/PwC-Switzerland-Power-BI-Virtual-Case-Experience/assets/62079897/683a1428-4a31-420d-8115-6acd2a2811bf)
 
@@ -31,17 +30,16 @@ Task 3: Diversity & Inclusion Human Resources at our telecom client is highly in
 At PwC Switzerland we are often approached by clients seeking support with diversity and inclusion. Companies need a workforce of diverse talents and backgrounds to succeed in an increasingly complex and heterogeneous world. To us, diversity and inclusion are business imperatives, not just nice-to-haves. We aim for all of our teams to feel welcome and appreciated. But actually achieving this and unlocking its potential involves a whole set of practical challenges.
 
 Here is a hint: Calculating the following measures could help to define proper KPIs:
-
-    number of men
-    number of women
-    number of leavers
-    % employees promoted (FY21)
-    % of women promoted
-    % of hires men
-    % of hires women
-    % turnover
-    Average performance rating: men
-    Average Performance rating: women
+    1. number of men
+    2. number of women
+    3. number of leavers
+    4. % employees promoted (FY21)
+    5. % of women promoted
+    6. % of hires men
+    7. % of hires women
+    8. % turnover
+    9. Average performance rating: men
+    10. Average Performance rating: women
 
 ![Diversity-Inclusion1](https://github.com/OmnyaRamadan/PwC-Switzerland-Power-BI-Virtual-Case-Experience/assets/62079897/ae986b21-f194-4e92-9c75-43ed22632548)
 
