@@ -4,9 +4,13 @@ Task 1: Call Centre Trends Create a dashboard in Power BI for Claire that reflec
 
 Possible KPIs include (to get you started, but not limited to):
     1. Overall customer satisfaction
+    
     2. Overall calls answered/abandoned
+    
     3. Calls by time
+    
     4. Average speed of answer
+    
     5. Agentâ€™s performance quadrant -> average handle time (talk duration) vs calls answered
     
 ![Call Center report](https://github.com/OmnyaRamadan/PwC-Switzerland-Power-BI-Virtual-Case-Experience/assets/62079897/683a1428-4a31-420d-8115-6acd2a2811bf)
